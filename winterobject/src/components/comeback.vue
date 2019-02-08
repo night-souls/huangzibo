@@ -3,7 +3,7 @@
 		<div class="comeback">
 			<a href="/index"><span>←</span></a>
 		</div>
-		<div></div>
+		<div></div><div></div>
 		<div><span>┅</span></div>
 	</div>
  	
